@@ -1,3 +1,5 @@
+import 'progress.dart';
+
 void main() {
   runApp(MyApp());
 }
